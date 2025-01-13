@@ -2,17 +2,13 @@
 A voice-activated assistant built with Python, leveraging SpeechRecognition for voice commands, ElevenLabs for natural text-to-speech, and OpenAI GTP-4 for intelligent conversation. Additionally, this assistant can integrate with your Outlook calendar via the Outlook COM Automation interface.
 
 ## Table of Contents
-- Overview
-- Features
-- Requirements
-- Installation
-- Configuration
-- Usage
-- Project Structure
-- How It Works
-- Known Issues / Troubleshooting
-- Future Plans
-- License
+- [Overview](#overview)
+- [Features](#features)
+- [Requirements](#requirements)
+- [Installation](#installation)
+- [Configuration](#configuration)
+- [Usage](#usage)
+- [Future Plans](#future-plans)
 
 ## Overview
 This project is a voice assistant that listens for a wake phrase ("hey assistant") and then accepts voice commands. Depending on the user's command, the assistant can:
